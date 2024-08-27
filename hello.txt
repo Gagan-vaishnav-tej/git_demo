@@ -1,1 +1,2 @@
 HI,This is CSE D
+We are discussing about Git
